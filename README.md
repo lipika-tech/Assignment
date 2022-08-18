@@ -1,2 +1,2 @@
 # Assignment
-It consist of all the codes
+It consist of all the codes for maths 
